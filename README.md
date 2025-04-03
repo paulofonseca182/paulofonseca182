@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou Paulo Fonseca!
 
 ## 💻 Sobre mim
-Sou **Desenvolvedor Front-End** na **Spatio**, especializado em **React, JavaScript e TypeScript**. Minha trajetória inclui o desenvolvimento de **interfaces responsivas**, integração com APIs, otimização de performance e acessibilidade. Já participei de projetos variados, desde **plataformas web e extensões para navegador até a criação de aplicativos móveis para Android**.
+Sou **Desenvolvedor Front-End**, especializado em **React, JavaScript e TypeScript**. Minha trajetória inclui o desenvolvimento de **interfaces responsivas**, integração com APIs, otimização de performance e acessibilidade. Já participei de projetos variados, desde **plataformas web e extensões para navegador até a criação de aplicativos móveis para Android**.
 
 Minha formação inclui:
 - **Desenvolvimento Web Full-Stack** pela **Trybe** (1.500+ horas de prática);
